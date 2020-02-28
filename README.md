@@ -1,2 +1,3 @@
 # hellow-world
-Just another repository
+
+The tirst time I learn this.
